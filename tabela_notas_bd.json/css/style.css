@@ -1,0 +1,33 @@
+* {
+    font-family: "Lato", sans-serif;
+    margin: 1rem;
+    padding: 0.5rem;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white
+}
+
+table, tr, td {
+    color: white;
+    border: 1px solid black;
+    background-color: #206D6D;
+}
+
+.botaoCalculo {
+    background-color: white;
+    border-radius: 25px;
+    font-size: 16px;
+    padding: 20px;
+    transition: background-color 0.7s
+}
+
+.botaoCalculo:hover {
+  background-color: #5BD3D3; /* Azul mais escuro no hover */
+}
+

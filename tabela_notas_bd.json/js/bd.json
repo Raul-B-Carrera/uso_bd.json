@@ -1,0 +1,28 @@
+
+[
+  {
+    "nome": "Joseph",
+    "nota_1": 10,
+    "nota_2": 9,
+    "nota_3": 9
+  },
+  {
+    "nome": "Doppio",
+    "nota_1": 7,
+    "nota_2": 10,
+    "nota_3": 5
+  },
+  {
+    "nome": "Iggy",
+    "nota_1": 4,
+    "nota_2": 4,
+    "nota_3": 4
+  },
+  {
+    "nome": "Joshu",
+    "nota_1": 8,
+    "nota_2": 8,
+    "nota_3": 5
+  }
+]
+
