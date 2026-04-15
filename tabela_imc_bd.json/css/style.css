@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Lato", sans-serif;
+}
+
+th, td {
+    border: 2px solid #dddddd;
+    text-align: center;
+    padding: 12px;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.peso_perigoso {
+    font-weight: bold;
+    color: #D60005;
+}
+
+.peso_perigoso td {
+    border: 3px dashed #D60005;
+}
+
+.peso_normal td {
+    border: 2px solid #4CAF50;
+}
+
+.peso_outros td {
+    border: 2px solid #D86D00;
+    background-color: #43434e;
+}
